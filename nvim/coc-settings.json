@@ -1,0 +1,54 @@
+{
+
+    "languageserver": {
+        "kotlin": {
+            "command": "~/lsp/server/bin/kotlin-language-server",
+            "filetypes": ["kotlin"]
+        }
+    },
+    "coc.preferences.formatOnSaveFiletypes": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+    "eslint.format.enable": true,
+    "eslint.fixOnSaveTimeout": 1000,
+    "tsserver.formatOnType": true,
+    "typescript.inlayHints.parameterTypes.enabled": true,
+    "typescript.inlayHints.variableTypes.enabled": true,
+    "colors.filetypes": ["*"],
+    "highlight.colors.enable": true,
+    "highlight.colorNames.enable": true,
+    "prettier.bracketSpacing": true,
+    "coc.preferences.formatOnType": true,
+    "diagnostic.enable": true,
+    "python.jediEnabled": true,
+    "eslint.autoFixOnSave": true,
+    "tslint.jsEnable": true,
+    "tsserver.enable": true,
+    "java.home":"/Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home",
+    "explorer.icon.enableNerdfont": true,
+    "explorer.icon.source": "vim-devicons",
+    "explorer.width": 30,
+    "explorer.previewAction.onHover": false,
+    "explorer.floating.border.chars": [
+        "┌",
+        "─",
+        "┐",
+        "│",
+        "┘",
+        "─",
+        "└",
+        "│"
+    ],
+    "explorer.keyMappings.global": {
+        "i": "nodePrev",
+        "k": "nodeNext",
+        "j": "collapse",
+        "h": false,
+        "gh": false,
+        "gj": "collapseRecursive",
+        "<cr>": ["expandable?", "expand", "open"],
+        "<space>": "toggleSelection"
+    },
+    "prettier.tabWidth": 4,
+    "coc.preferences.jumpCommand": "rop"
+
+
+}

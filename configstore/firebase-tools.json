@@ -1,0 +1,45 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000
+	},
+	"motd.fetched": 1654744781190,
+	"analytics-uuid": "18d6dfa2-962a-429a-9ff2-d3316a82c0e8",
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101747435367931998156",
+		"email": "hoangthien10996@gmail.com",
+		"email_verified": true,
+		"at_hash": "ysg6m5blnhBDRYv1noNyMA",
+		"iat": 1654744863,
+		"exp": 1654748463
+	},
+	"tokens": {
+		"expires_at": 1654748485079,
+		"refresh_token": "1//0gN7T9uqnkpp5CgYIARAAGBASNwF-L9IrhK2fqHv3R1XXYofrVHw1YrUHBEa8Qovn9kbFVnNznz-ECj7NHEUxainApQhh4DoseFU",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0ARrdaM_HL8BInOsDco2Nt6gW20OYgkJqfMomF8Ozq6vIpgFNieXlvCvvexWOyCHwvzmBFd6d3LwR3PKfZLtBbEtKecdTdehBg6M8luwYxBKc048OSq3td6_qlcJEgVnGKOfkN7IQtjcBUAhboQgMYxOk-eNoQwU3La9z",
+		"expires_in": 3599,
+		"scope": "openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc0ODNhMDg4ZDRmZmMwMDYwOWYwZTIyZjNjMjJkYTVmZTM5MDZjY2MiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxNzQ3NDM1MzY3OTMxOTk4MTU2IiwiZW1haWwiOiJob2FuZ3RoaWVuMTA5OTZAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJoYTUzdW9ZVnZOdDB4ZHBLd2hhWE9RIiwiaWF0IjoxNjU0NzQ0ODg2LCJleHAiOjE2NTQ3NDg0ODZ9.VpPoYGPXcJOVIqYSJVSL8cNUHPKSY2qba6NI1urpLwhdTQfTVL0qZ8ysrlXcyJMKtw-xa6QWwBjjeoksdTliu1E9ObR6wVYTNZrdTH0MIgwp6_A4jivbbj5SNjbmMavSkUPc51UuF07w4-3wCkUW6bpJErfbzdns_SJry9rBA_4L-grebftykH4Lgz4BWBmGlYvI2DytzfKtVCtJJSpqxQeoAHdoGMz-OmtOm_xWyU3-lG8ozMMUYB2w2YeXi9A-ApUDFFpF9OHTmq3nj_6OpkKXc5x9_DNjz1q7R4TKTYBeiE2k3k4to1QnJXRI0OLw3V-21otZaWi4JLYoo1nb8Q"
+	},
+	"activeProjects": {
+		"/Users/Thien/firebase-walletconnect-push": "demo"
+	},
+	"lastError": 1654744991111
+}

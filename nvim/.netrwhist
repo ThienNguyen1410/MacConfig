@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/Boss/AndroidStudioProjects/Map'
+let g:netrw_dirhist_0='/Users/Boss/AndroidStudioProjects/Map/app'
+let g:netrw_dirhist_9='/Users/Boss/AndroidStudioProjects/Map'
+let g:netrw_dirhist_8='/Users/Boss/AndroidStudioProjects/Map/app/src/main'
+let g:netrw_dirhist_7='/Users/Boss/AndroidStudioProjects/Map/app/src'
+let g:netrw_dirhist_6='/Users/Boss/AndroidStudioProjects/Map/app'
+let g:netrw_dirhist_5='/Users/Boss/AndroidStudioProjects/Map'
+let g:netrw_dirhist_4='/Users/Boss/AndroidStudioProjects'
+let g:netrw_dirhist_3='/Users/Boss/AndroidStudioProjects/Podcats/build'
+let g:netrw_dirhist_2='/Users/Boss/AndroidStudioProjects/Podcats/build/kotlin'

@@ -1,0 +1,17 @@
+pasteFile
+pasteFile
+pasteFile:clear
+copyFile
+collapse:all
+expand:uncompact
+quit
+quit
+quit
+copyFile:toggle
+collapse:all
+diagnosticNext
+drop
+textobj:line:i
+markNext
+quit
+copyFile
