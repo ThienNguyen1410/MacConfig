@@ -1,0 +1,52 @@
+{
+
+    "languageserver": {
+        "kotlin": {
+            "command": "~/lsp/server/bin/kotlin-language-server",
+            "filetypes": ["kotlin"]
+        }
+    },
+    // "tsserver.tsdk": "/Users/Thien/node_modules/typescript/lib",
+    "suggest.noselect": false,
+    "suggest.autoTrigger":"always",
+    "coc.preferences.formatOnSaveFiletypes": ["javascript", "javascriptreact", "typescript", "typescriptreact", "*.py", "*.js", "*.ts"],
+    "highlight.colors.enable": false,
+    "highlight.colorNames.enable": true,
+    "prettier.bracketSpacing": true,
+    "coc.preferences.formatOnType": true,
+    "diagnostic.enable": true,
+
+    "explorer.icon.enableNerdfont": true,
+    "explorer.icon.source": "vim-devicons",
+    "explorer.width": 65,
+    "explorer.previewAction.onHover": false,
+    "explorer.floating.border.chars": [
+        "┌",
+        "─",
+        "┐",
+        "│",
+        "┘",
+        "─",
+        "└",
+        "│"
+    ],
+    "explorer.keyMappings.global": {
+        "i": "nodePrev",
+        "k": "nodeNext",
+        "j": "collapse",
+        "h": false,
+        "gh": false,
+        "gj": "collapseRecursive",
+        "<cr>": ["expandable?", "expand", "open"],
+        "<space>": "toggleSelection"
+    },
+    "explorer.git.enable": true,
+    "explorer.git.icon.status.modified": "M",
+
+    "python.linting.enabled": true,
+
+    "prettier.tabWidth": 4,
+    "coc.preferences.jumpCommand": "drop"
+
+
+}

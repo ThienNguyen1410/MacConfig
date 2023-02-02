@@ -1,0 +1,41 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1665987876464
+	},
+	"motd.fetched": 1654744781190,
+	"activeProjects": {
+		"/Users/Thien/firebase-walletconnect-push": "demo"
+	},
+	"additionalAccounts": [],
+	"activeAccounts": {},
+	"analytics-uuid": "8396b66e-035e-4a7f-a790-5a7c491232ae",
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "112391187515548158383",
+		"email": "tietaiyen@gmail.com",
+		"email_verified": true,
+		"at_hash": "kCpG7iZbrRVP1g_2TbJ8UA",
+		"iat": 1665987886,
+		"exp": 1665991486
+	},
+	"tokens": {
+		"expires_at": 1665991485162,
+		"access_token": "ya29.a0Aa4xrXOl0k-TfVWssAxneGtBQMBS9Yd62Vm1hVkgm1YrDKGd0_APcesWfEjH2g6MO-7o71eGh5jDEDryyIJqU8HLqN_SvEi1iuGjxa1S_EJVxifYjD-4DQ6jAzeULK5zVujdCS-e3Y5GNnOztyxN6JWw25HD3qDNLjJjaCgYKATASARASFQEjDvL9N-baWVJFIs_avQ-eHBlkXQ0171",
+		"expires_in": 3599,
+		"refresh_token": "1//0eJia2vPn5s_TCgYIARAAGA4SNwF-L9IrcauBUiOzDTkvuYDwMmyYxxAEtmfv-7Nd4-RKabJlk1zSihSkp3uijQjjNNAnVKMHXv8",
+		"scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk1NTEwNGEzN2ZhOTAzZWQ4MGM1NzE0NWVjOWU4M2VkYjI5YjBjNDUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEyMzkxMTg3NTE1NTQ4MTU4MzgzIiwiZW1haWwiOiJ0aWV0YWl5ZW5AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJrQ3BHN2laYnJSVlAxZ18yVGJKOFVBIiwiaWF0IjoxNjY1OTg3ODg2LCJleHAiOjE2NjU5OTE0ODZ9.uu9a1LPZQdGC7PwwrCpRuPHyYjhsZYGSCJcxAcxeYYn1Ks0h3bk5qgolHqpmDCiuD0uR2DpnNi-mXCnx91ER_A4nc9iIRPV1fGWobw4jtsl_TuTA__ymkVsjwm4E96Kfobdy2-o_awH1qT9f2YWQ5i_gRUno5bT_RE-HX3GD1aEGq0DQjlS12AaAi8q4Mr9gvtOgVZ8beXhh2OEh_EvMIYdvNa-fObMqlXSDb1_WQaMYrYIAaqjcUdKEJkn5WyqTwv9MFrftvzJgLhly_fXsXHKy-kASC1-c3CTJtq4JW9Qmz-oyISjct0HAOzZRwipjGXLicydLaWuf-Ib_nUdITA"
+	},
+	"lastError": 1665988507882
+}

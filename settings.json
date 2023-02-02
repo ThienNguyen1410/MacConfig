@@ -1,0 +1,63 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "prettier.enable": true,
+  // "vscode-neovim.neovimInitVimPaths.darwin": "/Users/Thien/.config/nvim/init.vim",
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.matchpairs": "(:),{:},[:]",
+  "vim.neovimUseConfigFile": true,
+  "vim.neovimPath": "/Users/Thien/.config/nvim/init.vim",
+  "vim.vimrc.enable": true,
+  "vim.vimrc.path": "/Users/Thien/.vimrc",
+
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.easymotionDimBackground": true,
+  "vim.highlightedyank.color": "rgba(250, 240, 170, 0.5)",
+
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+    },
+    {
+      "before": ["K"],
+      "commands": ["lineBreakInsert"],
+      "silent": true
+    }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false
+  },
+  "window.zoomLevel": 2,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSurroundingLines": 10,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.minimap.enabled": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.largeFileOptimizations": false,
+  "workbench.colorTheme": "Rosé Pine",
+  "editor.cursorStyle": "block",
+  "diffEditor.codeLens": true
+}
