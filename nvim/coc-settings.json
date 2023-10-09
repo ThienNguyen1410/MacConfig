@@ -4,13 +4,11 @@
         "kotlin": {
             "command": "~/lsp/server/bin/kotlin-language-server",
             "filetypes": ["kotlin"]
-        }
-    },
-    // "tsserver.tsdk": "/Users/Thien/node_modules/typescript/lib",
+        },
+  },
     "suggest.noselect": false,
     "suggest.autoTrigger":"always",
-    "coc.preferences.formatOnSaveFiletypes": ["javascript", "javascriptreact", "typescript", "typescriptreact", "*.py", "*.js", "*.ts"],
-    "highlight.colors.enable": false,
+    "highlight.colors.enable": true,
     "highlight.colorNames.enable": true,
     "prettier.bracketSpacing": true,
     "coc.preferences.formatOnType": true,
@@ -44,9 +42,12 @@
     "explorer.git.icon.status.modified": "M",
 
     "python.linting.enabled": true,
+    "python.jediEnabled": true,
+    "python.pythonPath": "/opt/homebrew/bin/python3.10",
 
     "prettier.tabWidth": 4,
-    "coc.preferences.jumpCommand": "drop"
+    "coc.preferences.jumpCommand": "drop",
+    "java.import.gradle.java.home": "/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home"
 
 
 }

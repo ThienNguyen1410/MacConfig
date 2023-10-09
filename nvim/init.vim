@@ -3,43 +3,34 @@
 " Pluggins{{{1
 call plug#begin(stdpath('data') . '/plugged')
 Plug 'https://github.com/dyng/ctrlsf.vim'
+"NerdTree"
+Plug 'https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git'
 Plug 'preservim/nerdtree'
 Plug 'ryanoasis/vim-devicons'
-Plug 'https://github.com/liuchengxu/nerdtree-dash'
-Plug 'https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git'
+
 Plug 'junegunn/fzf', { 'do': './install --bin' }
 Plug 'junegunn/fzf.vim'
 " " Layout Management
 Plug 'https://github.com/zefei/vim-wintabs-powerline.git'
-Plug 'https://github.com/mtth/scratch.vim'
-Plug 'https://github.com/dhruvasagar/vim-zoom'
 Plug 'https://github.com/zefei/vim-wintabs.git'
-Plug 'https://github.com/junegunn/vim-peekaboo'
 "
 " Activity Management
-Plug 'https://github.com/davidoc/taskpaper.vim'
 Plug 'https://github.com/majutsushi/tagbar'
-Plug 'https://github.com/lvht/tagbar-markdown.git'
 
 " Editing Management{{{2
 Plug 'https://github.com/matze/vim-move'
 Plug 'andymass/vim-matchup'
 Plug 'Chiel92/vim-autoformat'
-Plug 'easymotion/vim-easymotion'
-Plug 'https://github.com/haya14busa/incsearch.vim'
-Plug 'https://github.com/haya14busa/incsearch-easymotion.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'brooth/far.vim'
-Plug 'junegunn/goyo.vim'
 
-
+"" Syntax Hightlight"
 Plug 'sheerun/vim-polyglot'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 Plug 'pangloss/vim-javascript'
 Plug 'leafgarland/typescript-vim'
 Plug 'peitalin/vim-jsx-typescript'
 Plug 'styled-components/vim-styled-components', { 'branch': 'main' }
-Plug 'jparise/vim-graphql'
 
 " Cut/ Copy/ Subtitute
 Plug 'https://github.com/svermeulen/vim-yoink.git'
@@ -50,43 +41,21 @@ Plug 'https://github.com/honza/vim-snippets.git'
 "}}}
 " Helper Management{{{2
 Plug 'https://github.com/skywind3000/vim-quickui'
+Plug 'mbbill/undotree'
 Plug 'liuchengxu/vim-which-key'
-"}}}
-" Command Management{{{2
-Plug 'https://github.com/osyo-manga/vim-over'
-Plug 'https://github.com/arithran/vim-delete-hidden-buffers.git'
-"}}}
-" Workspace Management{{{2
-Plug 'https://github.com/zhimsel/vim-stay'
-Plug 'https://github.com/Konfekt/FoldText'
-Plug 'https://github.com/Konfekt/FastFold'
-Plug 'https://github.com/MattesGroeger/vim-bookmarks.git'
 
-"}}}
-" Version Control Management{{{2
-Plug 'mhinz/vim-signify'
-Plug 'https://github.com/mbbill/undotree.git'
-Plug 'https://github.com/tpope/vim-fugitive.git'
-"}}}
-" Others{{{2
-Plug 'https://github.com/puremourning/vimspector'
-Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
-Plug 'https://github.com/liuchengxu/vim-clap.git'
-Plug 'https://github.com/rizzatti/dash.vim'
-Plug 'https://github.com/chrisbra/NrrwRgn/'
+Plug 'haya14busa/incsearch.vim'
+Plug 'haya14busa/incsearch-easymotion.vim'
+
+
 "}}}
 " Method Management
 Plug 'liuchengxu/vista.vim'
 " Support File Types{{{2
-Plug 'https://github.com/nelstrom/vim-visual-star-search.git'
 Plug 'https://github.com/mhartington/oceanic-next.git'
-Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
 Plug 'https://github.com/Yggdroot/indentLine.git'
 Plug 'psliwka/vim-smoothie'
-Plug 'plasticboy/vim-markdown'
-Plug 'https://github.com/hdima/python-syntax.git'
-Plug 'https://github.com/uiiaoo/java-syntax.vim.git'
-Plug 'mxw/vim-jsx'
+
 " Text Object
 Plug 'https://github.com/kana/vim-textobj-user.git'
 Plug 'https://github.com/machakann/vim-textobj-delimited.git'
@@ -94,8 +63,8 @@ Plug 'https://github.com/michaeljsmith/vim-indent-object.git'
 Plug 'https://github.com/glts/vim-textobj-comment.git'
 Plug 'https://github.com/kana/vim-textobj-entire.git'
 Plug 'https://github.com/chun-yang/vim-textobj-chunk.git'
+
 "Language Server
-Plug 'udalov/kotlin-vim'
 Plug 'williamboman/nvim-lsp-installer'
 Plug 'neovim/nvim-lspconfig'
 " Treessiter

@@ -7,11 +7,17 @@
 		"node8DeploysDisabledAfter": 1613390400000,
 		"node8RuntimeDisabledAfter": 1615809600000,
 		"node8WarnAfter": 1600128000000,
-		"fetched": 1665987876464
+		"fetched": 1684401842669
 	},
 	"motd.fetched": 1654744781190,
 	"activeProjects": {
-		"/Users/Thien/firebase-walletconnect-push": "demo"
+		"/Users/Thien/firebase-walletconnect-push": "demo",
+		"/Users/Thien/web-edu": "webapp-e3a7c",
+		"/Users/Thien/personal-portfolio": "webapp-e3a7c",
+		"/Users/Thien/firebase-hosting": "block-explorer-68d1e",
+		"/Users/Thien/firebase-hosting-redirect": "block-explorer-68d1e",
+		"/Users/Thien/GoogleOAuth": "block-explorer-68d1e",
+		"/Users/Thien/Android-App-Analyzer": "block-explorer-68d1e"
 	},
 	"additionalAccounts": [],
 	"activeAccounts": {},
@@ -24,18 +30,19 @@
 		"sub": "112391187515548158383",
 		"email": "tietaiyen@gmail.com",
 		"email_verified": true,
-		"at_hash": "kCpG7iZbrRVP1g_2TbJ8UA",
-		"iat": 1665987886,
-		"exp": 1665991486
+		"at_hash": "QJf-49FGh-pXeXRJnZV3Zw",
+		"iat": 1683537525,
+		"exp": 1683541125
 	},
 	"tokens": {
-		"expires_at": 1665991485162,
-		"access_token": "ya29.a0Aa4xrXOl0k-TfVWssAxneGtBQMBS9Yd62Vm1hVkgm1YrDKGd0_APcesWfEjH2g6MO-7o71eGh5jDEDryyIJqU8HLqN_SvEi1iuGjxa1S_EJVxifYjD-4DQ6jAzeULK5zVujdCS-e3Y5GNnOztyxN6JWw25HD3qDNLjJjaCgYKATASARASFQEjDvL9N-baWVJFIs_avQ-eHBlkXQ0171",
+		"expires_at": 1684405456185,
+		"refresh_token": "1//0g1u0AMk-0A3RCgYIARAAGBASNwF-L9IrciXF4SvHu9J7kfXH_yEbtuyNBgGjxZFWBf10O8m-DGStMJQ3jZZ3x6357ONfcyYyiXo",
+		"scopes": [],
+		"access_token": "ya29.a0AWY7Ckll2pGpW4-4F237SleG6i2Oq4ZVkWOkvWrraH7aTxw5qdxxVnVybIcJnZ4_klWDNXy_KccwqINcwEuNCrl-S6muCzpssxZeVSShjUECkRvBBC93Mo7L5BVsx91ZNKXuf2n5pWMMmhyun_pAN-S6BsqfWYlHu9d9_gaCgYKAaISARESFQG1tDrp53DlcX8DWir9O6UE-jxdIA0173",
 		"expires_in": 3599,
-		"refresh_token": "1//0eJia2vPn5s_TCgYIARAAGA4SNwF-L9IrcauBUiOzDTkvuYDwMmyYxxAEtmfv-7Nd4-RKabJlk1zSihSkp3uijQjjNNAnVKMHXv8",
-		"scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"scope": "https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/cloud-platform",
 		"token_type": "Bearer",
-		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk1NTEwNGEzN2ZhOTAzZWQ4MGM1NzE0NWVjOWU4M2VkYjI5YjBjNDUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEyMzkxMTg3NTE1NTQ4MTU4MzgzIiwiZW1haWwiOiJ0aWV0YWl5ZW5AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJrQ3BHN2laYnJSVlAxZ18yVGJKOFVBIiwiaWF0IjoxNjY1OTg3ODg2LCJleHAiOjE2NjU5OTE0ODZ9.uu9a1LPZQdGC7PwwrCpRuPHyYjhsZYGSCJcxAcxeYYn1Ks0h3bk5qgolHqpmDCiuD0uR2DpnNi-mXCnx91ER_A4nc9iIRPV1fGWobw4jtsl_TuTA__ymkVsjwm4E96Kfobdy2-o_awH1qT9f2YWQ5i_gRUno5bT_RE-HX3GD1aEGq0DQjlS12AaAi8q4Mr9gvtOgVZ8beXhh2OEh_EvMIYdvNa-fObMqlXSDb1_WQaMYrYIAaqjcUdKEJkn5WyqTwv9MFrftvzJgLhly_fXsXHKy-kASC1-c3CTJtq4JW9Qmz-oyISjct0HAOzZRwipjGXLicydLaWuf-Ib_nUdITA"
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjgyMjgzOGMxYzhiZjllZGNmMWY1MDUwNjYyZTU0YmNiMWFkYjViNWYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEyMzkxMTg3NTE1NTQ4MTU4MzgzIiwiZW1haWwiOiJ0aWV0YWl5ZW5AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJNMS00RmVWdFpEZVRydU5kZ3o1T1hRIiwiaWF0IjoxNjg0NDAxODU3LCJleHAiOjE2ODQ0MDU0NTd9.tb_Yis9YptaszRDdUsbReNYqWWCQoStQX-M4wEiMbWRXhmZwaLUPtNyzgvRhv8DJ7fANyyjuBt26WKyIdSlscuqCrvEDBqfCroBVJfZs6dV3zA7Hb0GaTLqk4FvFRTp4sTGoAoh4gFJoav-zj0hEdjawBPVFgwOOdRb6SHOd5N0IAJGX6nd5Rw12BJRtrjaYtL01wz6AFGHpeXUOnFe74v-fo4GUcHKEYiM3qc8FWSL13Rgdue-4eGTF5q37RipqpepTZ1eA5t_nqkUuwWqazkdGZVtHcNDnW-fSdS9jKB-wsQJQWhzEoU1aX3tNx-9Bk_uKC0ItCnlnvPmm2eIsgw"
 	},
-	"lastError": 1665988507882
+	"emulator-analytics-clientId": "3170b039-605b-4ea2-a512-0bdfa87ba05a"
 }
